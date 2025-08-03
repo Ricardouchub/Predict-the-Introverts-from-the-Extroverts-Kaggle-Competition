@@ -10,7 +10,7 @@ El conjunto de datos fue proporcionado por la competencia en Kaggle y se divide 
 * **Características Principales:** Incluyen respuestas numéricas y categóricas a preguntas como `Time_spent_Alone`, `Stage_fear`, `Going_outside`, y `Friends_circle_size`.
 * **Variable Objetivo:** `Personality` (Clasificación binaria: 'Introvert' o 'Extrovert').
 
-## Flujo de Trabajo y Metodología
+## Metodología
 El proyecto se estructuró en dos fases principales, documentadas en dos notebooks separados, para demostrar un enfoque desde lo fundamental hasta lo avanzado.
 
 #### 1. Análisis Exploratorio de Datos (EDA)
