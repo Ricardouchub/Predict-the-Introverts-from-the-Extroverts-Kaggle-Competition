@@ -1,7 +1,7 @@
-# Predicción de Personalidad: Competencia Kaggle (Introvertido vs. Extrovertido)
+# Competencia Kaggle: Predicción de Personalidad Introvertido vs. Extrovertido
 
 ## Introducción
-Este repositorio contiene la solución completa para la competencia de Kaggle **"Predict the Introverts from the Extroverts"**. El objetivo del proyecto fue desarrollar un modelo de machine learning capaz de clasificar la personalidad de un individuo como introvertida o extrovertida basándose en las respuestas de un cuestionario.
+Este repositorio contiene la solución para la competencia de Kaggle **"Predict the Introverts from the Extroverts"**. El objetivo del proyecto fue desarrollar un modelo de machine learning capaz de clasificar la personalidad de un individuo como introvertida o extrovertida basándose en las respuestas de un cuestionario.
 
 A través de un proceso sistemático de análisis, preprocesamiento avanzado, optimización de modelos y ensamblado, se logró un **Top Score de 0.9757** en la tabla de clasificación de Kaggle.
 
@@ -29,7 +29,6 @@ Se evaluó el rendimiento de varios algoritmos de clasificación potentes:
 * `RandomForestClassifier`
 * `XGBoost`
 * `LightGBM`
-* `AdaBoost`
 
 El **`RandomForestClassifier`** demostró consistentemente ser el modelo individual más fuerte en este problema.
 
@@ -62,26 +61,6 @@ Este proyecto demuestra un flujo de trabajo completo de machine learning, desde 
 2.  Un **modelo individual robusto y bien optimizado** (`RandomForestClassifier` en este caso) a veces puede ser superior a ensambles más complejos, destacando la importancia de la selección y ajuste del modelo.
 
 El resultado final valida la efectividad de un enfoque metódico y experimental para resolver problemas de clasificación.
-
-## Cómo Usar este Repositorio
-
-1.  **Clonar el repositorio:**
-    ```bash
-    git clone [https://github.com/Ricardouchub/Predict-the-Introverts-from-the-Extroverts-Kaggle-Competition.git](https://github.com/Ricardouchub/Predict-the-Introverts-from-the-Extroverts-Kaggle-Competition.git)
-    cd Predict-the-Introverts-from-the-Extroverts-Kaggle-Competition
-    ```
-2.  **Crear un entorno virtual (recomendado):**
-    ```bash
-    python -m venv venv
-    source venv/bin/activate  # En Windows: venv\Scripts\activate
-    ```
-3.  **Instalar las dependencias:**
-    *Asegúrate de tener un archivo `requirements.txt` en tu repositorio.*
-    ```bash
-    pip install -r requirements.txt
-    ```
-4.  **Ejecutar los Notebooks:**
-    Abre y ejecuta los notebooks (`Notebook.ipynb` y `Notebook 2.ipynb`) en un entorno de Jupyter.
 
 ---
 **Nota para ti:** No olvides crear el archivo `requirements.txt`. Puedes generarlo fácilmente en tu terminal (una vez que tu entorno virtual esté activado y tengas todas las librerías instaladas) con el siguiente comando:
