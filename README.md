@@ -54,12 +54,12 @@ El proceso de experimentación y optimización culminó en un modelo de alto ren
     * `n_estimators`: 200
 * **Score Final en Kaggle:** **0.975708**
 
-* ## Estructura del proyecto
+* ## Estructura del repositorio
 
-- **`Notebook - Modelo base y ensamble simple (parte 1).ipynb`**: 
-- **`Notebook - Imputacion avanzada y optimizacion Optuna (parte 2).ipynb`**:
-- **`/data`**: 
-- **`/submissions`**: 
+- **`Notebook - Modelo base y ensamble simple (parte 1).ipynb`**
+- **`Notebook - Imputacion avanzada y optimizacion Optuna (parte 2).ipynb`**
+- **`/data`**
+- **`/submissions`**
 
 ## Conclusión
 Este proyecto demuestra un flujo de trabajo completo de machine learning, desde el análisis inicial hasta la optimización avanzada. La conclusión clave es doble:
