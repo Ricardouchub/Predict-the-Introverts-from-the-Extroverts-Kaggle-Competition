@@ -1,6 +1,5 @@
 # Competencia Kaggle: Predicción de Personalidad Introvertido vs. Extrovertido
 
-## Introducción
 Este repositorio contiene la solución para la competencia de Kaggle **"Predict the Introverts from the Extroverts"**. El objetivo del proyecto fue desarrollar un modelo de machine learning capaz de clasificar la personalidad de un individuo como introvertida o extrovertida basándose en las respuestas de un cuestionario.
 
 A través de un proceso sistemático de análisis, preprocesamiento avanzado, optimización de modelos y ensamblado, se logró un **Top Score de 0.9757** en la tabla de clasificación de Kaggle.
@@ -61,7 +60,3 @@ Este proyecto demuestra un flujo de trabajo completo de machine learning, desde 
 2.  Un **modelo individual robusto y bien optimizado** (`RandomForestClassifier` en este caso) a veces puede ser superior a ensambles más complejos, destacando la importancia de la selección y ajuste del modelo.
 
 El resultado final valida la efectividad de un enfoque metódico y experimental para resolver problemas de clasificación.
-
----
-**Nota para ti:** No olvides crear el archivo `requirements.txt`. Puedes generarlo fácilmente en tu terminal (una vez que tu entorno virtual esté activado y tengas todas las librerías instaladas) con el siguiente comando:
-`pip freeze > requirements.txt`
