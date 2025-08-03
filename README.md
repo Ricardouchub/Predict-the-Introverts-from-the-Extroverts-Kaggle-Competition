@@ -2,7 +2,7 @@
 
 Este repositorio contiene la solución para la competencia de Kaggle **"Predict the Introverts from the Extroverts"**. El objetivo del proyecto fue desarrollar un modelo de machine learning capaz de clasificar la personalidad de un individuo como introvertida o extrovertida basándose en las respuestas de un cuestionario.
 
-A través de un proceso sistemático de análisis, preprocesamiento avanzado, optimización de modelos y ensamblado, se logró un **Top Score de 0.9757** en la tabla de clasificación de Kaggle.
+A través de un proceso sistemático de análisis, preprocesamiento avanzado, optimización de modelos y ensamblado, se logró un **Score de 0.9757** en la tabla de clasificación de Kaggle.
 
 ## Dataset
 El conjunto de datos fue proporcionado por la competencia en Kaggle y se divide en un set de entrenamiento y uno de prueba.
