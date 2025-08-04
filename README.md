@@ -1,5 +1,13 @@
 # Competencia Kaggle: Predicción de Personalidad Introvertido vs. Extrovertido
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Proyecto_Completado-%E2%9C%94-2ECC71?style=flat-square&logo=checkmarx&logoColor=white" alt="Proyecto Completado"/>
+  <img src="https://img.shields.io/badge/Python-3.9%2B-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Seaborn-Visualización-4C72B0?style=flat-square&logo=seaborn&logoColor=white" alt="Seaborn"/>
+  <img src="https://img.shields.io/badge/scikit--learn-Modelado-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+</p>
+
+
 Este repositorio contiene la solución para la competencia de Kaggle **"Predict the Introverts from the Extroverts"**. El objetivo del proyecto fue desarrollar un modelo de machine learning capaz de clasificar la personalidad de un individuo como introvertida o extrovertida basándose en las respuestas de un cuestionario.
 
 A través de un proceso sistemático de análisis, preprocesamiento avanzado, optimización de modelos y ensamblado, se logró un **Score de 0.9757** en la tabla de clasificación de Kaggle.
@@ -54,7 +62,7 @@ El proceso de experimentación y optimización culminó en un modelo de alto ren
     * `n_estimators`: 200
 * **Score Final en Kaggle:** **0.975708**
 
-* ## Estructura del Repositorio
+## Estructura del Repositorio
 
 - **`Notebook - Modelo base y ensamble simple (parte 1).ipynb`**
 - **`Notebook - Imputacion avanzada y optimizacion Optuna (parte 2).ipynb`**
