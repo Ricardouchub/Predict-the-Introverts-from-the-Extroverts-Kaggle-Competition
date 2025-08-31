@@ -54,7 +54,7 @@ Curiosamente, se descubrió que el **modelo `RandomForestClassifier` individual,
 ## Resultados
 El proceso de experimentación y optimización culminó en un modelo de alto rendimiento.
 
-* **Modelo Campeón 🏆:** `RandomForestClassifier`
+* **Modelo Campeón:** `RandomForestClassifier`
 * **Método de Preprocesamiento:** Imputación de nulos con **`IterativeImputer`**.
 * **Mejores Hiperparámetros:**
     * `max_depth`: 20
